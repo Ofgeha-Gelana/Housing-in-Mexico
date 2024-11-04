@@ -3,7 +3,7 @@
 ## Description
 In this project, I'll work with a dataset with 21,000 properties for sale in Mexico to determine whether sale prices are influenced more by property size or location.
 
-![Capturar](https://github.com/IgorTraspadini/Housing-in-Mexico/assets/126266157/7b09e6a7-9d4b-44ce-bafe-8651f53710b9)
+![Capturar](https://github.com/Ofgeha-Gelana/Housing-in-Mexico/blob/main/src/mexico.png)
 
 
 
