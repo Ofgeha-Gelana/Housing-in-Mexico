@@ -30,8 +30,9 @@ git clone https://github.com/Ofgeha-Gelana/Housing-in-Mexico
 requirements.txt
 
 # Run
-Housing_in_Mexico_Import_Clean_Data.ipynb
-Housing_in_Mexico_EDA_Conclusion.ipynb
+012-data-wrangling-with-pandas.ipynb
+013-exploratory-data-analysis.ipynb
+014-size-or-location.ipynb
 ```
 
 ## References 
